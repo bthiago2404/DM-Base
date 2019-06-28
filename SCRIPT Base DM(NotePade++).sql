@@ -1,5 +1,5 @@
 
-/*DM-Base*/
+/* DM-Base */
 
 CREATE TABLE MUNICIPIO (
 IDMUNICIPIO SERIAL,
